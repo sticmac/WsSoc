@@ -1,0 +1,6 @@
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\EventsBased\bin\Debug\EventsBased.dll
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\EventsBased\bin\Debug\EventsBased.pdb
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\EventsBased\obj\Debug\EventsLib.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\EventsBased\obj\Debug\EventsLib.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\EventsBased\obj\Debug\EventsBased.dll
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\EventsBased\obj\Debug\EventsBased.pdb

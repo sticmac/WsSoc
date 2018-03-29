@@ -1,0 +1,7 @@
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\Client\bin\Debug\Client.exe.config
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\Client\bin\Debug\Client.exe
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\Client\bin\Debug\Client.pdb
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\Client\obj\Debug\Client.exe
+C:\Users\Julien\Desktop\Web Services\4 - Events\EventsBased\Client\obj\Debug\Client.pdb
